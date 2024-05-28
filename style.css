@@ -20,3 +20,7 @@ body {
 .container {
     height: 100vh;
 }
+.container {
+    height: 100vh;
+    display: grid;
+}
